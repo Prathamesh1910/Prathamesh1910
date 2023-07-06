@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prathamesh
-- 👀 I’m interested in Android, Photo-shop and German
-- 🌱 I’m currently learning Android and Adobe PhotoShop
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Data Science and ML
+- 🌱 I’m currently learning ML, MLOPs
+- 💞️ I’m looking to collaborate on data science and ML related projects
 - 📫 How to reach me: [Twitter](https://twitter.com/_Prathameshw_10)
 
 <!---
